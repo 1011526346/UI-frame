@@ -1,0 +1,15 @@
+/***
+ * 插件：UIPanelType类
+ * 功能：保存UI面板路径
+ * 作者：李平
+ */
+[
+  {
+    "panelType": "ItemMessagePanel",
+    "path": "UIPanel/ItemMessagePanel"
+  },
+  {
+    "panelType": "CharacterPanel",
+    "path": "UIPanel/CharacterPanel"
+  }
+]
